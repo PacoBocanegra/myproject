@@ -4,6 +4,7 @@
 
 ### En que consiste
 Consiste en filtrar los títulos de las imagenes que aparezca en una página xml que nosotros introduzcamos manualmente mediante tkinter. Esta información se guardará en un fichero con el nombre que pongamos. El nombre del fichero lo mencionamos al ejecutar el programa:
+
 `python3 miprograma.py nombre_fichero`
 
 Luego cogerá todas las palabras de los títulos y se mostrará cuantas veces se ha escrito esas palabras en los títulos.
